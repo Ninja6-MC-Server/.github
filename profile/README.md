@@ -21,5 +21,5 @@ We maintain our private repositories, server documentation, infrastructure autom
 
 ## 💬 Community & Ecosystem
 
-* **Discord Community:** [Ninja6-MC Servers](https://discord.gg/XcTsmhCgnd)
+* **Discord Community:** [Ninja6-MC Servers](https://discord.gg/p4QtSQUyxE)
 * **Plugin Development Hub:** [Ninja6-MC](https://github.com/Ninja6-MC) (Custom plugins & developer tools)
