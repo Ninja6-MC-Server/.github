@@ -1,4 +1,4 @@
-﻿# Welcome to Ninja6-MC-Server 🎮⚔️
+# Welcome to Ninja6-MC-Server 🎮⚔️
 
 Official infrastructure, server operations, configuration management, and system documentation for the **Ninja6 Minecraft Server Network**.
 
@@ -21,6 +21,6 @@ We maintain our private repositories, server documentation, infrastructure autom
 
 ## 💬 Community & Ecosystem
 
-* **Discord Community:** [Ninja6-MC Servers](https://discord.gg/DRg96jKXYf)
+* **Discord Community:** [Ninja6-MC Servers](https://discord.gg/Hsbu5jSqtB)
 * **Plugin Development Hub:** [Ninja6-MC](https://github.com/Ninja6-MC) (Custom plugins & developer tools)
 
